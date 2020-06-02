@@ -1,0 +1,19 @@
+
+body {
+    color: blueviolet ;
+columns: #333333;;
+font: bold ;
+margin: 40pt;
+padding:16px;
+background-color: palegoldenrod;
+align-items: center;
+align-self:center;
+font-size: 250%;
+text-align: center;
+align-content: center;
+}
+h1 {
+color:orangered;
+font-size:500%;
+align-self: center;
+}
